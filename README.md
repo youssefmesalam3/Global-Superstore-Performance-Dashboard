@@ -86,6 +86,9 @@ The dataset contains information about:
 
 ## 📸 Dashboard Preview
 
+<img width="1271" height="707" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/727eda22-b52b-46a7-914d-b684b9c57350" />
+
+
 Add screenshots of the dashboard here.
 
 ## 👨‍💻 Author
@@ -93,6 +96,6 @@ Add screenshots of the dashboard here.
 **Youssef Alaaeldin Mesalam**
 Data Analyst | Power BI Developer
 
-LinkedIn: [[www.linkedin.com/in/youssef-mesalam](https://www.linkedin.com/in/youssef-mesalam-a8a78a2ab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZLNzHX%2F%2BRLSaSmKdKyh5CA%3D%3D)]
+LinkedIn: [[www.linkedin.com/in/youssef-mesalam](https://www.linkedin.com/in/youssef-mesalam-a8a78a2ab/?]
 
 ## ⭐ If you found this project useful, don't forget to give it a star.
