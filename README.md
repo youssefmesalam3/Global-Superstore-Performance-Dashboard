@@ -93,6 +93,6 @@ Add screenshots of the dashboard here.
 **Youssef Alaaeldin Mesalam**
 Data Analyst | Power BI Developer
 
-LinkedIn: [www.linkedin.com/in/youssef-mesalam](http://www.linkedin.com/in/youssef-mesalam)
+LinkedIn: [www.linkedin.com/in/youssef-mesalam]([http://www.linkedin.com/in/youssef-mesalam](https://www.linkedin.com/in/youssef-mesalam-a8a78a2ab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZLNzHX%2F%2BRLSaSmKdKyh5CA%3D%3D))
 
 ## ⭐ If you found this project useful, don't forget to give it a star.
