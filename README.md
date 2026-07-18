@@ -86,7 +86,7 @@ The dataset contains information about:
 
 ## 📸 Dashboard Preview
 
-<img width="1271" height="707" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/727eda22-b52b-46a7-914d-b684b9c57350" />
+<img width="1321" height="738" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/e96c7a90-6267-43ee-860a-1a86a200cb9e" />
 
 
 Add screenshots of the dashboard here.
